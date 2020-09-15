@@ -2,4 +2,4 @@ FROM postgres:alpine
 
 ENV POSTGRES_USER=postgres
 ENV POSTGRES_PASSWORD=postgres
-ENV POSTGRES_DB=husky
+ENV POSTGRES_DB=dasby
